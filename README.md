@@ -1,7 +1,7 @@
 # vue-firebase-chat-app
-
-<img width="600" src="https://github.com/grinmorg/vue-firebase-chat/blob/main/presentation.png">
-
+<div style="display:flex; justify-content:center">
+  <img width="600" src="https://github.com/grinmorg/vue-firebase-chat/blob/main/presentation.png">
+</div>
 ## Project setup
 ```
 yarn install
