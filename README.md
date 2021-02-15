@@ -1,6 +1,6 @@
 # vue-firebase-chat-app
 <p align="center">
-  <img width="600" src="https://github.com/grinmorg/vue-firebase-chat/blob/main/presentation.png">
+  <img width="600" src="https://github.com/grinmorg/vue-firebase-chat/blob/main/screen.png">
 </p>
 ## Project setup
 ```
