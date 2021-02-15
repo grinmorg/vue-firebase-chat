@@ -14,7 +14,7 @@
   </div>
   <div ref="bottom" class="mt-20" />
   <div class="bottom">
-    <div class="container-sm">
+    <div class="container-sm mx-auto">
       <form v-if="isLogin" @submit.prevent="send">
         <input v-model="message" placeholder="Message" required />
         <button type="submit">

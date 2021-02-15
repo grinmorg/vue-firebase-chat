@@ -3,6 +3,7 @@
         <div class="mx-auto">
             <h1><strong>Vue</strong> simple Chat App </h1>
             <div v-if="isLogin" class="login">
+                <div class="text-green-300 mr-2">{{ user.displayName.split(' ')[0] }}</div>
                 <Avatar :src="user.photoURL" />
                 <button class="text-gray-400 hover:text-white" @click="signOut">
                 Sign Out

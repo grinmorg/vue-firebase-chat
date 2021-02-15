@@ -34,6 +34,7 @@ nav .login {
     @apply right-0;
     @apply flex;
     @apply ml-auto;
+    @apply items-center;
 }
 
 nav button {
