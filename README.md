@@ -2,7 +2,7 @@
 <p align="center">
   <img width="600" src="https://github.com/grinmorg/vue-firebase-chat/blob/main/screen.png">
 </p>
-## Project setup
+### Project setup
 ```
 yarn install
 ```
